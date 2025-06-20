@@ -13,8 +13,8 @@ cd unicross
 
 3. **Build the executable**
 
-```bash
-go build
+```
+go build -o unicross
 ```
 
 This will generate an executable file named `unicross` in the current directory.
